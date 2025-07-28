@@ -1,43 +1,3 @@
-# Blynk-Lamp-Switch
-**a lamp switch that can be control through blynk app**
-
-## 🧩 Component list
-
- - ESP Wemos D! Mini
- - Relay Module
- - Led 5mm
- - Resistor 1K Ω
- - Adaptor 5V
-
- <br>
-
-## 📄 Schematic
-
-![Schematic Image](/Images/Schematic.png)
-
- <br>
-
-## 💡 Wiring Diagram
-
-![Wiring Image](/Images/wiring.png)
-
-<br>
-
-## 🔎 How It Look
-
-### The finish look
-![Switch](/Images/Lamp_Switch.jpg)
-
-### PCB look
-![PCB](/Images/PCB.jpg)
-
-<br>
-
-## Code
-
-Source code is inside the `code/` folder.
-
-```cpp
 #define BLYNK_TEMPLATE_ID "Template-ID"
 #define BLYNK_TEMPLATE_NAME "Template-Name"
 #define BLYNK_AUTH_TOKEN "AUTH-Token"
@@ -76,5 +36,3 @@ BLYNK_WRITE(BLYNK_VPIN) {
 void loop() {
   Blynk.run();
 }
-
-

@@ -10,3 +10,10 @@
 
 ## 📄 Schematic
 ![Schematic Image](/Images/Schematic.png)
+
+## 💡 Wiring Diagram
+ ![Wiring Image](/Images/wiring.png)
+
+## 🔎 How It Look
+
+

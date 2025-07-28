@@ -9,12 +9,14 @@
  - Resistor 1K Ω
  - Adaptor 5V
 
+ <br>
 
 ## 📄 Schematic
 
 ![Schematic Image](/Images/Schematic.png)
 
-
+ <br>
+ 
 ## 💡 Wiring Diagram
 
 ![Wiring Image](/Images/wiring.png)

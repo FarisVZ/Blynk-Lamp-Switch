@@ -16,11 +16,16 @@
 ![Schematic Image](/Images/Schematic.png)
 
  <br>
- 
+
 ## 💡 Wiring Diagram
 
 ![Wiring Image](/Images/wiring.png)
 
+<br>
+
 ## 🔎 How It Look
 
+![Switch](/Images/Lamp_Switch.jpg)
+
+![PCB](/Images/PCB.jpg)
 

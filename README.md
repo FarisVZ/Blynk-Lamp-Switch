@@ -35,7 +35,7 @@
 
 ## Code
 
-Source code is inside the `code/` folder.
+The ino file is inside the `code/` folder.
 
 ```cpp
 #define BLYNK_TEMPLATE_ID "Template-ID"

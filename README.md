@@ -25,8 +25,10 @@
 
 ## 🔎 How It Look
 
+> the finish look
 ![Switch](/Images/Lamp_Switch.jpg)
 
+> how it look at the PCB
 ![PCB](/Images/PCB.jpg)
 
 

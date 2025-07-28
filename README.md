@@ -25,6 +25,5 @@
 
 ## 🔎 How It Look
 
-![Switch](/Images/Lamp_Switch.jpg)
 
 

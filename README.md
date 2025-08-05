@@ -42,7 +42,8 @@
 
 **This is the closer look of the PCB**
 ![PCB](/Images/PCB.jpg)
-> Note: there is a transistor in there because in the first attempt i use based relay but then change to relay module to make it easier
+
+> Note: there is a transistor in there because in the first attempt i use based relay but then change to relay module to make it easier.
 
 <br>
 
@@ -50,4 +51,15 @@
 
 The ino file is inside the [code](/code/) folder.
 
-## How it Work
+## Video Demo
+
+video...
+
+basically it just 2 switch being an or gate to turn on/off the lamp. the table bellow show the lamp status (off/on) depending the condition.
+
+| Lamp status | Wall switch | Relay |
+| :---------- | :---------: | :---: |
+| ON          |     ON      |  OFF  |
+| ON          |     OFF     |  ON   |
+| ON          |     ON      |  ON   |
+| OFF         |     OFF     |  OFF  |
